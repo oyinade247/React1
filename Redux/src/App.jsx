@@ -8,7 +8,7 @@ function App() {
 
   return (
     <>
-     <span>0</span>
+     <Counter />
 
     </>
   )
